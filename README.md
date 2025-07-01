@@ -1,4 +1,4 @@
-# 🌐 Landing page Model Website
+# 🌐 Landing page  Website
 
 A responsive, single-page website for **Unbundl**, a digital growth agency based in Delhi, India.  
 This project showcases modern web development using HTML, CSS, and Vanilla JavaScript  with animations, dynamic service detail pages, smooth navigation, and contact forms.
@@ -38,9 +38,9 @@ This project showcases modern web development using HTML, CSS, and Vanilla JavaS
 
 * ) HTML5 + CSS3 + JavaScript (Vanilla)
 
-* )CSS Grid & Flexbox for layout
+* ) CSS Grid & Flexbox for layout
 
-* )Font Awesome for icons
+* ) Font Awesome for icons
 
 
 
