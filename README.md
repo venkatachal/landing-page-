@@ -8,8 +8,7 @@ This project showcases modern web development using HTML, CSS, and Vanilla JavaS
 [🔗 View Live Website]((https://unbundl-model-website.vercel.app/)) 
 
 ---
-
-## 📁 Project Structure
+ 📁 Project Structure
 
 ├── index.html # Main HTML file with all sections and hidden pages.
 
